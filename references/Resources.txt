@@ -1,0 +1,8 @@
+Resources used in this project
+
+1. https://public.tableau.com/en-gb/s/resources
+2. https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/
+3. https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+4. https://xgboost.readthedocs.io/en/latest/python/python_api.html
+5. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+6. https://arxiv.org/pdf/1503.06410.pdf
